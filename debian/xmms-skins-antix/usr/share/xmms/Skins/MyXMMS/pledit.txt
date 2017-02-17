@@ -1,0 +1,6 @@
+[Text]
+Normal=#67789d
+Current=#bab3ec
+NormalBG=#3b4753
+SelectedBG=#545c71
+Font=Helvetica

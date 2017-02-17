@@ -1,0 +1,12 @@
+Package: xmms-skins-antix
+Version: 0.1.0
+Architecture: amd64
+Maintainer: anticapitalista <antiX@operamail.com>
+Installed-Size: 6096
+Depends: xmms, flac
+Conflicts: xmms-plugins-antix
+Section: sound
+Priority: extra
+Homepage: http://antix.mepis.org
+Description: The X Multimedia System
+ Includes unmodified libxmms-flac.so

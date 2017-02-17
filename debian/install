@@ -1,0 +1,6 @@
+libxmms-flac.so 	usr/lib/xmms/Input
+xmms 			usr/local/bin
+xmms.desktop 		usr/share/applications/antix
+xmms.png 		usr/share/icons
+Skins/* 		usr/share/xmms/Skins
+

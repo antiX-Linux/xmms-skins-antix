@@ -1,0 +1,32 @@
+=============================================
+maXMMS 1.0 skin for XMMS
+
+Created by Andras Mohari <mayday@freemail.hu>
+Released Nov 6, 2000
+
+Graphics done in The Gimp 1.0.4
+Tested with XMMS 1.0.1
+=============================================
+
+
+Installation
+------------
+The usual way. You should have received this file in a gzip'ed tar
+archive named maXMMS.tar.gz. The archive contains a subdirectory
+called maXMMS, so you can simply extract it into your XMMS skins
+directory.
+
+
+Comments
+--------
+This is my first skin for XMMS. I started experimenting with
+Jesse Kaufman's NeXTAmp2 v1.0pre1 skin to make it match the colors
+of Window Maker's dialog boxes better. I did not stop there and went
+on changing and changing it. After a while I realized that working
+on a bright skin in my dark room was not the way to go. :-)
+I decided to create a dark(ish) skin instead, so I totally redraw it.
+Here is the result.
+
+
+
+Have fun!
